@@ -1,1 +1,2 @@
 # odin-recipes
+En este proyecto usare distintas habilidades que adquiri durante el curso y las cuales son (hasta el momento) de uso sobre html, el uso de listas, la inclusion de imagenes, parrafos, titulos, nombrar el proyecto. Estas habilidades pretendo que sean aprendidas eficientemente al finalizado de este proyecto.
